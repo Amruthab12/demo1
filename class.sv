@@ -1,3 +1,5 @@
+//simple class example
+
 class a;
 	int [31:00] addr;
 	bit id;
