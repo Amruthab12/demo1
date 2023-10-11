@@ -6,4 +6,4 @@ class a;
         $display("class example");
 endfunction
 endclass
-
+//end class
